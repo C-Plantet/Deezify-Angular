@@ -1,0 +1,51 @@
+head {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+#Logo{
+	width: 100px;
+	height: 100px;
+}
+
+
+#slogan{
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;;
+	color: #ffffff;
+	font-size:25px;
+    vertical-align: center;
+    text-align: center;
+}
+
+#connection{
+	background-color:white;
+	margin:15px 15px;
+    color:black;
+    font-weight: bold;
+    font-size:20px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;;
+    
+    text-decoration: none;  
+}
+
+#inscription{
+	background-color: #2582ea;
+    color:white;
+    margin:15px 15px;
+    font-weight: bold;
+    font-size:20px;
+    padding: 10px 40px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;;
+    border-radius: 10px;
+    cursor: pointer;
+
+    text-decoration: none;  
+}
+
+
+
